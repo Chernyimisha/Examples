@@ -48,3 +48,4 @@ Console.WriteLine();
 
 int pos = IndexOf(array, 4);
 Console.WriteLine(pos);
+
